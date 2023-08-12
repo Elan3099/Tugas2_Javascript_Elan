@@ -1,2 +1,2 @@
 # Tugas2_Javascript_Elan
-Nama : Elan Frita Sesaeria K
+Nama : Elan Frita Sesaria K
